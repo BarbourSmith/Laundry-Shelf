@@ -1658,6 +1658,54 @@
             "ioValues": [],
             "readmeText": "Readme text here",
             "global": true
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 0.5277777777777778,
+            "y": 0.7976878612716762,
+            "uniqueID": 1726075588286,
+            "ioValues": [
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.98,
+                    "y": 0.5,
+                    "uniqueID": 1726075588271,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 0.013333333333333334,
+                    "y": 0.6044568245125348,
+                    "uniqueID": 1726075587850,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 0.2222222222222222,
+                    "y": 0.41907514450867056,
+                    "uniqueID": 1726075592040,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 90
+                        }
+                    ]
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1,
+            "compiledBom": []
         }
     ],
     "allConnectors": [
