@@ -1097,8 +1097,8 @@
         {
             "atomType": "CutLayout",
             "name": "Cut Layout",
-            "x": 0.6197089947089947,
-            "y": 0.6350974930362118,
+            "x": 0.6193737769080234,
+            "y": 0.6239554317548747,
             "uniqueID": 1724646329757,
             "ioValues": [
                 {
@@ -1120,13 +1120,75 @@
                 {
                     "name": "Part Padding",
                     "ioValue": 6
-                },
-                {
-                    "name": "Sheet Padding",
-                    "ioValue": 1
                 }
             ],
-            "description": "Pick between assembly and fusion to join input geometries. Assembly takes multiple shapes together into one, shapes higher in the inputs list will cut into shapes lower on the input list where they overlap. Fusion takes all shapes or sketches and fuses them permanently into a single shape"
+            "description": "Pick between assembly and fusion to join input geometries. Assembly takes multiple shapes together into one, shapes higher in the inputs list will cut into shapes lower on the input list where they overlap. Fusion takes all shapes or sketches and fuses them permanently into a single shape",
+            "placements": [
+                {
+                    "translate": {
+                        "x": 888.925048828125,
+                        "y": -38.400001525878906
+                    },
+                    "id": 5,
+                    "rotate": 180
+                },
+                {
+                    "translate": {
+                        "x": 888.924987759375,
+                        "y": -49.19998931210938
+                    },
+                    "id": 8,
+                    "rotate": 0
+                },
+                {
+                    "translate": {
+                        "x": 888.9249877804687,
+                        "y": 621.9000167441407
+                    },
+                    "id": 9,
+                    "rotate": 0
+                },
+                {
+                    "translate": {
+                        "x": 1288,
+                        "y": 1040
+                    },
+                    "id": 1,
+                    "rotate": 270
+                },
+                {
+                    "translate": {
+                        "x": 872,
+                        "y": 1424
+                    },
+                    "id": 0,
+                    "rotate": 180
+                },
+                {
+                    "translate": {
+                        "x": 1330.2262352882813,
+                        "y": 278.09999843203127
+                    },
+                    "id": 4,
+                    "rotate": 0
+                },
+                {
+                    "translate": {
+                        "x": 1288,
+                        "y": 977.7200241117188
+                    },
+                    "id": 2,
+                    "rotate": 90
+                },
+                {
+                    "translate": {
+                        "x": 1570.2262429882812,
+                        "y": -21.900032067968752
+                    },
+                    "id": 7,
+                    "rotate": 0
+                }
+            ]
         },
         {
             "atomType": "Molecule",
